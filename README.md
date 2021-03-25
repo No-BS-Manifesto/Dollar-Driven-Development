@@ -1,6 +1,14 @@
 Dollar Driven Development
 ![DDD1](https://raw.githubusercontent.com/No-BS-Manifesto/Dollar-Driven-Development/main/1DDD.PNG)
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
 ![DDD2](https://raw.githubusercontent.com/No-BS-Manifesto/Dollar-Driven-Development/main/2DDD.PNG)
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
 ![DDD3](https://raw.githubusercontent.com/No-BS-Manifesto/Dollar-Driven-Development/main/3DDD.PNG)
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
 ![DDD4](https://raw.githubusercontent.com/No-BS-Manifesto/Dollar-Driven-Development/main/4DDD.PNG)
+_____________________________________________________________________________________________
+_____________________________________________________________________________________________
 ![DDD5](https://raw.githubusercontent.com/No-BS-Manifesto/Dollar-Driven-Development/main/5DDD.PNG)
